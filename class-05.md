@@ -26,4 +26,4 @@
     - **@font-face** allows you to use a font even if it is not installed on the computer
         - font-family to declare the name
         - src to declare the url to the font
-        - Free resources: [fontsquirrel](www.fontsquirrel.com), [fontex](www.fontex.com), [openfontlibrary](www.openfontlibrary.org)
+        - Free resources: [fontsquirrel](https://www.fontsquirrel.com), [fontex](http://www.fontex.org), [openfontlibrary](https://www.openfontlibrary.org)
